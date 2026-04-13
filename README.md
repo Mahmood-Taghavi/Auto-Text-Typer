@@ -38,14 +38,14 @@ active window automatically.
 
 ## 🧩 Use Case: DST Research Servers
 
-On **DST (Denmark Statistics) research servers**:
-- Clipboard/file transfer are limited as a rule
-- Text input is often limited to manual typing
+On **DST (Denmark Statistics) research servers**:  
+- Clipboard/file transfer are limited as a rule  
+- Text input is often limited to manual typing  
 
-This tool allows researchers to: - Prepare text locally (e.g., code,
-notes, documentation) - Transfer it into DST environments efficiently
-via simulated typing - Reduce repetitive manual work while staying
-compliant with DST policies
+This tool allows researchers to:  
+- Prepare text locally (e.g., code, notes, documentation)  
+- Transfer it into DST environments efficiently via simulated typing  
+- Reduce repetitive manual work while staying compliant with DST policies  
 
 > Important: This tool is intended for non-sensitive text only.
 > All data must still be handled and submitted according to DST
@@ -95,12 +95,10 @@ compliant with DST policies
 
 ## 👤 Author
 
-Seyed Mahmood Taghavi Shahri, PhD
-Senior Statistician, PhD
-Steno Diabetes Center Copenhagen
+S. Mahmood Taghavi S., Senior Statistician, Steno Diabetes Center Copenhagen, Denmark
 
-GitHub: https://github.com/Mahmood-Taghavi/
-LinkedIn: https://www.linkedin.com/in/mahmood-taghavi/
+- GitHub: https://github.com/Mahmood-Taghavi  
+- LinkedIn: https://www.linkedin.com/in/mahmood-taghavi
 
 ------------------------------------------------------------------------
 
