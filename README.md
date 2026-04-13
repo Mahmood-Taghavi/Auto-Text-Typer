@@ -8,6 +8,12 @@ transfer is limited and text must be entered manually.
 
 ------------------------------------------------------------------------
 
+## 🖼️ Screenshot
+
+![Auto Text Typer Screenshot](screenshot.png)
+
+------------------------------------------------------------------------
+
 ## 🔍 Overview
 
 In secure environments like DST, users typically access projects via
