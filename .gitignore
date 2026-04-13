@@ -1,0 +1,14 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio
+.Rproj.user/
+
+# Generated files
+README.html
+
+# OS
+.DS_Store
+Thumbs.db
