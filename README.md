@@ -20,29 +20,26 @@ be slow and cumbersome if done manually.
 
 **Auto Text Typer via AutoHotkey** addresses this by: - Taking locally available text
 (typed or pasted) - Simulating keystrokes - Entering the text into the
-active window automatically
+active window automatically.
 
 ------------------------------------------------------------------------
 
 ## ✨ Features
 
--   Simulates realistic typing into any active window\
--   Paste text directly from clipboard\
--   Adjustable typing speed (1X--5X)\
--   Configurable delay before typing starts\
--   Pause and resume typing at any time\
--   Stop typing safely\
--   Live text length display\
--   Estimated typing time calculation\
--   Global shortcuts for quick control
+- Simulates typing in any active window  
+- Estimates total typing time  
+- Adjustable typing speed (1X–5X)  
+- Configurable start delay  
+- Pause and resume typing anytime  
+- Displays typing progress (%)  
+- Global shortcuts for quick control
 
 ------------------------------------------------------------------------
 
 ## 🧩 Use Case: DST Research Servers
 
-On **DST (Denmark Statistics) research servers**: - Direct data
-extraction is restricted\
-- Clipboard/file transfer may be limited or disabled\
+On **DST (Denmark Statistics) research servers**:
+- Clipboard/file transfer are limited as a rule
 - Text input is often limited to manual typing
 
 This tool allows researchers to: - Prepare text locally (e.g., code,
@@ -50,7 +47,7 @@ notes, documentation) - Transfer it into DST environments efficiently
 via simulated typing - Reduce repetitive manual work while staying
 compliant with DST policies
 
-> Important: This tool is intended for non-sensitive text only.\
+> Important: This tool is intended for non-sensitive text only.
 > All data must still be handled and submitted according to DST
 > regulations.
 
@@ -59,50 +56,51 @@ compliant with DST policies
 ## ⚙️ Installation
 
 1.  Install [AutoHotkey v2](https://www.autohotkey.com/), a free and open-source custom scripting language
-2.  Download 'Auto Text Typer via AutoHotkey.ahk' from this repository\
+2.  Download 'Auto Text Typer via AutoHotkey.ahk' from this repository
 3.  Double-click the downloaded 'Auto Text Typer via AutoHotkey.ahk' to run
 
 ------------------------------------------------------------------------
 
 ## 🚀 How to Use
 
-1.  Enter or paste text into the input box\
-2.  Select typing speed\
-3.  Set a delay\
-4.  Click Start Typing or use a shortcut\
+1.  Enter or paste text into the input box
+2.  Select typing speed
+3.  Set a delay to switch to the destination typing area
+4.  Click Start Typing or use a shortcut
 5.  The tool will simulate typing into the active window
 
 ### Keyboard Shortcuts
 
--   Ctrl + Shift + Y → Start / Pause / Resume\
+-   Ctrl + Shift + Y → Start / Pause / Resume
 -   Ctrl + Alt + Y → Start / Pause / Resume
 
 ------------------------------------------------------------------------
 
 ## 🖥️ Interface Highlights
 
--   Text Length: Displays number of characters in real time\
--   Estimated Typing Time: Based on selected speed\
+-   Text Length: Displays number of characters in real time
+-   Estimated Typing Time: Based on selected speed
 -   Status Indicator: Shows current state
 
 ------------------------------------------------------------------------
 
 ## ⚠️ Notes & Limitations
 
--   Some editors may auto-insert characters\
--   Use simple editors when possible\
--   Very long texts may take time\
--   Depends on system responsiveness
+- Avoid editors that auto-insert characters (e.g., brackets or quotes)  
+- Use simple text editors when possible  
+- Long texts may take time to complete  
+- Performance depends on system responsiveness 
 
 ------------------------------------------------------------------------
 
 ## 👤 Author
 
-Seyed Mahmood Taghavi Shahri, PhD\
-Senior Statistician\
+Seyed Mahmood Taghavi Shahri, PhD
+Senior Statistician, PhD
 Steno Diabetes Center Copenhagen
 
 GitHub: https://github.com/Mahmood-Taghavi/
+LinkedIn: https://www.linkedin.com/in/mahmood-taghavi/
 
 ------------------------------------------------------------------------
 
